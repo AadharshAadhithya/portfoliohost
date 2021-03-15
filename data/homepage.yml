@@ -1,0 +1,105 @@
+---
+banner:
+  title: 👋, I’m Aadharsh
+social:
+  twitter: Aadharsh2002
+  linkedin: aadharsh-aadhithya-9a6982149
+  github: AadharshAadhithya
+  gitlab: ""
+  facebook: ""
+  instagram: aadharsh_aadhithya
+  gmail: aadharshaadhithya
+about:
+  enable: true
+  content: UnderGraduate Researcher
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+
+  item:
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615734208/personalwebsite/c-logo-icon-28389_v1dvpq.png
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615733646/personalwebsite/5848152fcef1014c0b5e4967_glhwi8.png
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615734208/personalwebsite/1920px-Flask_logo.svg_z4huqd.png
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615734207/personalwebsite/1920px-Django_logo.svg_p2e2ab.png
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615734208/personalwebsite/PngItem_4651848_v36p1h.png
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615734207/personalwebsite/1920px-Pandas_logo.svg_gdgj4o.png
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615734207/personalwebsite/1_aUSZsGFCMPNYCkQygs4aGQ_hwzkq2.jpg
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615734207/personalwebsite/Pytorch_logo_mly8x7.png
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615741720/personalwebsite/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d557385.50418708153060794935_owqm42.png
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615741883/personalwebsite/800px-HTML5_logo_and_wordmark.svg_let7v8.png
+      description: Details coming soon, contact me if you want to know more
+    - title: ""
+      logo: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615741884/personalwebsite/CSS3_logo_and_wordmark.svg_btj2im.png
+      description: Details coming soon, contact me if you want to know more
+    
+
+
+
+
+experience:
+  enable: false
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: init.g
+      company: Google
+      duration: November 2019
+hackathons:
+  enable: false
+  item:
+    - title: Hack Cambridge 2019
+      description: Climate change simulator
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+      url: none
+certifications:
+  enable: true
+  item:
+    - title: Hands on Deep Learning
+      image: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615742670/personalwebsite/xbmMUUUSNqiIVXtMjz2g_logo_fnzb0j.svg
+      url: https://padhai.onefourthlabs.in/certificates/viqfn60rlp
+education:
+  enable: true
+  item:
+    - title: Btech Computer Science - Artificial Intelligence
+      year: 2020 - present
+      academy: Amrita Vishwa Vidhyapeetham
+      image: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615742095/personalwebsite/new-logo-color-changed-11-amrita_hstvwv.jpg
+    - title: High School
+      year: 2018 - 2020
+      academy: Suguna PiP School
+      image: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615742350/personalwebsite/Screenshot_2021-03-14_224850_cyvg9i.png
+    - title: Schooling
+      year: 2012 - 2018
+      academy: BVM Global School
+      image: https://res.cloudinary.com/dbwuq1kps/image/upload/v1615742530/personalwebsite/bvm_pzcq5j.jpg
+leadership:
+  enable: false
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
+      title: Young Leader
+      company: The Scout Association
+      duration: September 2014 - July 2018
+portfolio:
+  filter:
+    - label: Web Dev
+      value: web-dev
